@@ -17,7 +17,7 @@ Automates email registration for the [OroGold waitlist](https://orogold.app/) us
 ## Installation
 1. Clone repo:
    ```bash
-   git clone https://github.com/your-username/orogold-wl
+   git clone https://github.com/dilman78/orogold-wl
    cd orogold-waitlist
    ```
 2. Install dependencies:
